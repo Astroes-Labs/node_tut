@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 699,
+    "description": "Latest smartphone model",
+    "category": "electronics"
+  },
+  {
+    "id": 3,
+    "name": "T-Shirt",
+    "price": 29,
+    "description": "Cotton T-shirt",
+    "category": "clothing"
+  },
+  {
+    "id": 3,
+    "name": "Iphone",
+    "price": 1000,
+    "description": "Pink Iphone 12",
+    "category": "electronics"
+  },
+  {
+    "id": 4,
+    "name": "Ipad",
+    "price": 1000,
+    "description": "Dust Grey Iphone 12",
+    "category": "electronics"
+  },
+  {
+    "id": 5,
+    "name": "Plastic Table",
+    "price": 290,
+    "description": "Green Plastics Table",
+    "category": "Furniture"
+  },
+  {
+    "id": 6,
+    "name": "Duffel Bag",
+    "price": 3000,
+    "description": "Camo Colored Bag",
+    "category": "Bags"
+  }
+]
